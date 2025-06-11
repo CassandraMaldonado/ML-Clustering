@@ -24,22 +24,18 @@ The analysis is divided into two main streams:
 ## Key Techniques
 
 - Exploratory Data Analysis (EDA)
-- Outlier Detection in Review Data
-- Mixed-Type Clustering with K-Prototypes
+- Outlier Detection
+- Clustering with K-Prototypes
 - Visualization of High-Dimensional Data with PCA
 - Customer Segmentation Strategy
 
----
-
-## 🛠 Tech Stack
+## Tech Stack
 
 - Python
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn`
 - `kmodes` (for K-Prototypes clustering)
 - `plotly` (for interactive visuals)
-
----
 
 ## 📌 Insights
 
