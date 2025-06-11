@@ -16,14 +16,12 @@ The analysis is divided into two main streams:
 ## Notebooks
 
 - [`Fake_reviews_EDA.ipynb`](https://github.com/CassandraMaldonado/Market_signals/blob/main/Fake_reviews_EDA.ipynb)  
-  Focuses on identifying outliers in review behavior by analyzing variables such as review length, star rating distributions, review frequency, and potential spamming patterns.
+  Focused on identifying outliers in review behavior by analyzing variables such as review length, star rating distributions, review frequency and potential spamming patterns.
 
 - [`EDA.ipynb`](https://github.com/CassandraMaldonado/Market_signals/blob/main/EDA.ipynb)  
-  Analyzes a mixed-type survey dataset to identify distinct customer clusters. The K-Prototypes algorithm is used to uncover latent audience groups and explore their implications for targeted outreach.
+  Analyzed a mixed survey dataset to identify distinct customer clusters. Used K-Prototypes to uncover latent audience groups and explore their implications for targeted outreach.
 
----
-
-## 🔍 Key Techniques
+## Key Techniques
 
 - Exploratory Data Analysis (EDA)
 - Outlier Detection in Review Data
