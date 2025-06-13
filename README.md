@@ -36,8 +36,3 @@ The analysis is divided into two main streams:
 - `scikit-learn`
 - `kmodes` (for K-Prototypes clustering)
 - `plotly` (for interactive visuals)
-
-## Insights
-
-- Detected reviewer behaviors that may indicate manipulation or inorganic activity.
-- Identified clear audience segments with distinct platform preferences and behavioral traits, providing a foundation for future ad targeting or personalization.
