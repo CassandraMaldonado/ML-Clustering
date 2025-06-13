@@ -34,5 +34,4 @@ The analysis is divided into two main streams:
 - Python
 - `pandas`, `numpy`, `matplotlib`, `seaborn`
 - `scikit-learn`
-- `kmodes` (for K-Prototypes clustering)
-- `plotly` (for interactive visuals)
+- `kmodes`
