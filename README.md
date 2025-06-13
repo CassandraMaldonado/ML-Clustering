@@ -37,19 +37,7 @@ The analysis is divided into two main streams:
 - `kmodes` (for K-Prototypes clustering)
 - `plotly` (for interactive visuals)
 
-## 📌 Insights
+## Insights
 
 - Detected reviewer behaviors that may indicate manipulation or inorganic activity.
 - Identified clear audience segments with distinct platform preferences and behavioral traits, providing a foundation for future ad targeting or personalization.
-
----
-
-## 🚀 Next Steps
-
-- Apply supervised modeling to predict user behavior from cluster labels.
-- Incorporate external platform usage data to refine targeting strategy.
-- Extend anomaly detection to time-based review patterns.
-
----
-
-## 📁 Structure
